@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Yo, whatssssssup"
+title: "Seungmin Chou's blog"
 email: 'seungmin.chou@stonybrook.edu'
 description: "I'm a Data Science Ph.D student at Stony Brook University. Before SBU, I received my B.A. in Statistics from Chung-Ang University in South Korea. I'm interested in statistics and data science."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://csmsum.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'csmwstat '
+twitter_username: 'csmwstat'
 github_username: 'csmsum'
 
 # Build settings
@@ -91,8 +91,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2024 Seungmin Chou'
+admin_name: 'Seungmin Chou'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
