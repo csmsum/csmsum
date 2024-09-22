@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Seungmin Chou's blog"
+title: "Chou's Your Statistic" 
 email: 'seungmin.chou "at" stonybrook "dot" edu'
-description: "I'm a Data Science Ph.D student at Stony Brook University. Before SBU, I received my B.A. in statistics at Chung-Ang University. I was honored to be supervised by professor Changwon Lim there. I'm interested in statistics and data science. \\ Please scroll down to see more!"
+description: "I’m a Data Science Ph.D. student at Stony Brook University. Before my doctorate journey, I received my B.A. in Statistics at Chung-Ang University, where I had the privilege of being supervised by Professor Changwon Lim. I’m interested in statistics and data science. <br> Please scroll down for my blog posts!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://csmsum.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'csmwstat'
+x_username: 'csmwstat'
 github_username: 'csmsum'
-linkedin_username : 'csmwstat'
+linkedin_username : 'seugnmin-chou'
 
 # Build settings
 markdown: kramdown
@@ -102,3 +102,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/research', text: 'Research' }
+  - { url: '/links', text: 'Links' }  
