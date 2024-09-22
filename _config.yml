@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Seungmin Chou's blog"
-email: 'seungmin.chou@stonybrook.edu'
-description: "I'm a Data Science Ph.D student at Stony Brook University. Before SBU, I received my B.A. in Statistics from Chung-Ang University in South Korea. I'm interested in statistics and data science."
+email: 'seungmin.chou "at" stonybrook "dot" edu'
+description: "I'm a Data Science Ph.D student at Stony Brook University. Before SBU, I received my B.A. in statistics at Chung-Ang University. I was honored to be supervised by professor Changwon Lim there. I'm interested in statistics and data science."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://csmsum.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'csmwstat'
 github_username: 'csmsum'
-
+linkedin_username : 'csmwstat'
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
@@ -100,4 +100,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/research', text: 'Research' }
