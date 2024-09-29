@@ -7,4 +7,12 @@ Gemfile.lock
 **/*.bbl
 **/*.gz
 **/*.synctex.gz
-**/*.bbl
+**/*.blg
+**/*.aux
+**/*.fdb_latexmk
+**/*.log
+**/*.out
+**/*.fls
+**/*.tex
+
+
