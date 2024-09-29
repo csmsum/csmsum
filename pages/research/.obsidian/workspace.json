@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic1/topic1.md",
+                "file": "settings/t1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topic1/topic1.md",
+                "file": "settings/t1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topic1/topic1.md",
+                "file": "settings/t1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topic1/topic1.md"
+                "file": "settings/t1.md"
               }
             }
           }
@@ -148,7 +148,17 @@
   },
   "active": "b7226b0b947972bd",
   "lastOpenFiles": [
-    "topic1/topic1.md",
-    "index.md"
+    "settings/Using.md",
+    "settings/t1.md",
+    "settings/t1.md",
+    "index.md",
+    "settings/setting.md",
+    "settings/Untitled",
+    "research/topic2.md",
+    "settings",
+    "research/To do list.md",
+    "topic1/To do list.md",
+    "research",
+    "Untitled"
   ]
 }

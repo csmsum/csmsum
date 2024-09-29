@@ -11,3 +11,9 @@ permalink: /research/
 ## Topic 2
 
 [This is topic 2](/research/topic2/)
+
+## Settings
+
+[Using Latex in iCloud (path containing "~")](/settings/t1)
+
+
