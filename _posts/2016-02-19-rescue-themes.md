@@ -7,7 +7,7 @@ categories: development design
 tags: Research Statistics AI DataScience
 featured_image: '/img/posts/research_bibliotheque.jpeg'
 project_link: '/research/'
-button_text: 'Visit Rescue Themes'
+button_text: 'Visit Research Topics'
 button_icon: 'flask'
 lead_text: 'Works that I am interested in.'
 ---

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "settings/t1.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149f6cc00f6c6530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/Survival Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "settings/t1.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "settings/t1.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "settings/t1.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,11 +160,17 @@
   },
   "active": "b7226b0b947972bd",
   "lastOpenFiles": [
+    "research/Kernel Based Learning.md",
     "index.md",
-    "settings/t1.md",
-    "research/topic2.md",
-    "settings/setting.md",
+    "[.md",
+    "research/Survival Data.md",
+    "research/Word List.md",
+    "Screenshot 2024-09-30 at 11.19.50 PM.png",
     "research/To do list.md",
+    "Untitled.canvas",
+    "research/topic1.md",
+    "settings/t1.md",
+    "settings/setting.md",
     "settings/Using.md",
     "settings/Untitled",
     "settings",

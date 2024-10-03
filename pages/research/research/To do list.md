@@ -5,5 +5,8 @@ title: To do list
 ---
 
 # To do list
- - [ ] SUNY CIVIL XI 
- - [ ] a
+ - [ ] Take SUNY CIVIL XI 
+ - [ ] Study AMS507 for test
+ - [ ] HW AMS572
+ - [ ] HW CSE581
+ - [ ] 

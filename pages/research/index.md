@@ -4,13 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-## Topic 1
+## Kernel Based Learning
 
-[This is topic 1](/research/topic1/)
+[Kernel Based Learning](/research/kernel-based_learning/) deals with kernel based learning that are largely used nowadays in many neural network models, starting from maximal margin classifier through support vector classifier/machine to how they are employed in feature maps in neural networks.
 
 ## Topic 2
 
-[This is topic 2](/research/topic2/)
+[This is topic 2](/research/topic2/) is to be updated.
 
 ## Settings
 
