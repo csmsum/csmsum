@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel Based Learning.md",
+                "file": "Word List.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel Based Learning.md",
+                "file": "Word List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel Based Learning.md",
+                "file": "Word List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel Based Learning.md"
+                "file": "Word List.md"
               }
             }
           }
@@ -160,13 +160,13 @@
   },
   "active": "b7226b0b947972bd",
   "lastOpenFiles": [
-    "index.md",
-    "Kernel Based Learning.md",
-    "Screenshot 2024-09-30 at 11.19.50 PM.png",
-    "Survival Data.md",
-    "t1.md",
     "To do list.md",
     "Untitled.canvas",
+    "t1.md",
+    "Survival Data.md",
+    "Kernel Based Learning.md",
+    "Screenshot 2024-09-30 at 11.19.50 PM.png",
+    "index.md",
     "Word List.md",
     "[.md",
     "research/topic1.md",

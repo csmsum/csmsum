@@ -1,3 +1,15 @@
+---
+layout: post
+title: My secon Post
+date: 2024-10-02 14:00:00
+categories:
+  - jekyll
+  - web
+tags:
+  - github
+  - tutorial
+---
+
 1. Tautology
 2. Spatio-Temporal Data
 4. Analytical studies 

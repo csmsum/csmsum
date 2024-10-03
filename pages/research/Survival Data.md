@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "My First Post"
+date: 2024-10-02 14:00:00
+categories: [jekyll, web]
+tags: [github, tutorial]
+---
 
 ## How doctors predict when you will die?
 - What is survival data and why is it difficult to deal with?
