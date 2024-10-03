@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Kernel Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Survival Data.md",
+                "file": "Survival Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Kernel Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Kernel Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Kernel Based Learning.md"
               }
             }
           }
@@ -160,16 +160,16 @@
   },
   "active": "b7226b0b947972bd",
   "lastOpenFiles": [
-    "research/Kernel Based Learning.md",
     "index.md",
-    "[.md",
-    "research/Survival Data.md",
-    "research/Word List.md",
+    "Kernel Based Learning.md",
     "Screenshot 2024-09-30 at 11.19.50 PM.png",
-    "research/To do list.md",
+    "Survival Data.md",
+    "t1.md",
+    "To do list.md",
     "Untitled.canvas",
+    "Word List.md",
+    "[.md",
     "research/topic1.md",
-    "settings/t1.md",
     "settings/setting.md",
     "settings/Using.md",
     "settings/Untitled",
